@@ -24,7 +24,9 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
+              
             ],
             "scripts": []
           },
@@ -119,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "curso-angular-basico"
+    }
+  },
+  "defaultProject": "curso-angular-basico",
+  "cli": {
+    "analytics": "77238f70-7192-45bf-9f7c-4226a8517666"
+  }
 }
